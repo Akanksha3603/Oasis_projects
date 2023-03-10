@@ -1,0 +1,34 @@
+body{
+    background: rgb(15, 14, 20);
+}
+h1{
+    color:white;
+}
+.container{
+    
+    margin-top: 100px;;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    width:90px;
+    margin:5px;
+    height:50px;
+    border-radius: 10%;
+    
+    font-size: large;
+    
+}
+
+.input{
+    padding:20px 90px;
+    margin:15px;
+    font-size: large;
+}
+#equal{
+    background: rgb(130, 130, 240);
+    color : white;
+    width : 200px;
+}
