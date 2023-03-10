@@ -1,0 +1,99 @@
+
+  .center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.htwo{
+    align-items: cemter;
+    justify-content: center;
+    background:rgb(36, 58, 91);
+    color:aliceblue;
+    padding-left: 40px;
+}
+.title{
+   
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-weight: lighter;
+    background: rgb(36, 58, 91);
+    color:aliceblue;
+}
+.title1{
+    
+    display: flex;
+    flex-direction: column;
+    padding: 15vh 18vw;
+}
+
+.img{
+    width:30vw;
+    border: 5px;
+    border-color: aliceblue;
+}
+
+.section{
+    padding: 5px 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing:normal;
+    font-size: medium;
+    font-weight: lighter;
+    
+}
+.container h5{
+    color: grey;
+    font-weight: lighter;
+    font-size: larger;
+}
+#scrolltitle{
+    align-items: center;
+    justify-content: center;
+}
+.scroll{
+    padding: 5px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: auto;
+   
+}
+
+.items{
+    width:30vw;
+    height:60vh;
+    padding:40px;
+    
+    
+}
+.h8{
+    
+    word-wrap: break-word; 
+}
+.items1{
+    width:30vw;
+    height:10vh;
+    padding:40px;
+    margin:10px;
+    border: solid 1px;
+    border-radius: 10px;
+    border-color:  grey;
+}
+.table1{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.table1 tr{
+    padding: 30px;
+}
+#index{
+    background: rgb(36, 58, 91);
+    color:aliceblue;
+    grid
+}
